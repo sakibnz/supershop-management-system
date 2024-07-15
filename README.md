@@ -19,9 +19,10 @@ The Supershop Management System is a comprehensive solution designed to manage t
   - **Log Out**: Securely log out of the system.
   - **Close Application**: Close the application safely.
 
-## Functionalities
+## Demonstration
 
-### Buyer Management
+- **Log In Page**:
+![login](https://github.com/user-attachments/assets/606380fb-6cf0-4fc0-8dc8-172749b82c6d)
 
 - **New Buyer**:
   - A form to input the buyer's details.
@@ -63,7 +64,7 @@ The Supershop Management System is a comprehensive solution designed to manage t
   - Buttons: `Delete`, `Reset`, `Close`.
 
 ## Demonstration
-![cseproject-1](https://github.com/user-attachments/assets/606380fb-6cf0-4fc0-8dc8-172749b82c6d)
+
 ![cseproject-2](https://github.com/user-attachments/assets/2da16a11-61af-427c-ba25-c4fc4bf2bfd0)
 ![cseproject-3](https://github.com/user-attachments/assets/9b873ac7-bbf4-42fa-9ace-c9686473a380)
 ![cseproject-4](https://github.com/user-attachments/assets/26bf9881-fdc5-419a-b6f3-1291b318b566)
