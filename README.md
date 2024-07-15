@@ -55,6 +55,7 @@ The Supershop Management System is a comprehensive solution designed to manage t
 
 - **Product Details**:
   - Fetch and display all product details in a table.
+  - Buttons: `Print`, `Close`.
 
 - **Delete Product**:
   - Search by Product ID.
