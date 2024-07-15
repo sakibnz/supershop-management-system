@@ -21,7 +21,8 @@ The Supershop Management System is a comprehensive solution designed to manage t
 
 ## Demonstration
 
-- **Log In Page**:
+### Log In Page
+
 ![login](https://github.com/user-attachments/assets/606380fb-6cf0-4fc0-8dc8-172749b82c6d)
 
 - **New Buyer**:
