@@ -1,6 +1,6 @@
 # Supershop Management System
 
-The Supershop Management System is a comprehensive solution designed to manage the various aspects of a supershop. This system allows an admin user to log in and perform various operations related to buyers and products.
+The Supershop Management System is a comprehensive desktop application designed to manage the various aspects of a supershop. An admin user can log in to the system and perform various operations related to buyers and products. This application is primarily developed using Java Swing. It is the final project I worked on for the Object-Oriented Programming Lab course.
 
 ## Features
 
